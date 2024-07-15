@@ -1,8 +1,52 @@
-# React + Vite
+# Bharat Clock
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Clock that shows the time in Bharat at all times.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Always shows the current time and date in Bharat.
+
+## Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/bharat-clock.git
+    cd bharat-clock
+    ```
+
+2. Install the dependencies:
+
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+1. Start the development server:
+
+    ```bash
+    npm start
+    ```
+
+2. Open your browser and navigate to `http://localhost:3000` to see the Bharat Clock in action.
+
+## Contributing
+
+Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or suggestions, please contact:
+
+- Your Name
+- [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+Made with ❤️ in Bharat.
+
